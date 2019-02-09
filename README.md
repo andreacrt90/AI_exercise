@@ -14,8 +14,8 @@ I file pronti per l'esecuzione si trovano nelle relative cartelle "n_queens" e "
 - n_queens -> min_conflicts.py
 - map_coloring -> min_conflicts_min_colors.py
 
-I file non prevedono input da tastiera per le dimensioni del problema; 
-occorre modificare manualmente le dimensioni dei problemi nelle chiamate delle funzioni "main" per effettuare nuovi test. 
+I file prevedono input da tastiera per le dimensioni del problema solo se presente la nomenclatura "nomefile_input.py"; 
+negli altri file occorre modificare manualmente le dimensioni dei problemi nelle chiamate delle funzioni "main" per effettuare nuovi test. 
 Le dimensioni per i due problemi sono settate di default a:
 
 - n_queens: 20 regine
